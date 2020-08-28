@@ -19,9 +19,9 @@
 #include <string>
 #include <fstream>
 #include <conio.h>
-#include<array> 
+#include <array> 
 #include <stdlib.h>
-#include<tuple> 
+#include <tuple> 
 #include <time.h>
 #include <chrono>
 #include <thread>
